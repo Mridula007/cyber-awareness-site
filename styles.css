@@ -30,3 +30,44 @@ ul {
 p {
   font-size: 18px;
 }
+body {
+  font-family: 'Segoe UI', sans-serif;
+  background-color: #f9f9f9;
+  color: #333;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+
+header {
+  background-color: #4CAF50;
+  color: #fff;
+  padding: 30px 10px;
+  border-bottom: 5px solid #388E3C;
+}
+
+.news-section {
+  padding: 20px;
+}
+
+.news-section h2 {
+  color: #333;
+}
+
+.news-section ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.news-section li {
+  margin: 10px 0;
+  font-size: 1.1rem;
+}
+
+footer {
+  background-color: #333;
+  color: #fff;
+  padding: 15px;
+  margin-top: 30px;
+}
+
